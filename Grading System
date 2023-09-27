@@ -28,7 +28,7 @@ public class Bmiweight {
   System.out.println("\t\t\tDepartment of Computer Science");
     System.out.println("\t\t\t\tEnd of Semester Results");
     System.out.println("--------------------------------------------------------------------------------");
-    System.out.println("|Name:Mark Muuo\t\t\t|Roll_No:C026-01-0987/2022\tSemester: 2");
+    System.out.println("|Name:Stanley Ekiru\t\t\t|Roll_No:C026-01-0929/2022\tSemester: 2");
     System.out.println("________________________________________________________________________________");
     System.out.println("|Unit Code\t\t\t|Unit Name:\t\t\tScore");
     System.out.println("--------------------------------------------------------------------------------");
